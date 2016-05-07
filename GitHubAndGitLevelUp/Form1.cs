@@ -22,5 +22,10 @@ namespace GitHubAndGitLevelUp
             MessageBox.Show("Hello Yura");
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World");
+        }
     }
 }
